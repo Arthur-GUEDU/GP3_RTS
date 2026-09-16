@@ -82,7 +82,7 @@ At the beginning of the project, we thought we would need a `Finite State Machin
 ### Game Programming
 - [Alfred PLANSON](https://github.com/Ego1809)
 - [Arthur GUÉDU](https://github.com/Arthur-GUEDU)
-- [Lucas LEPINAY](github.com/LucasLEPINAY)
+- [Lucas LEPINAY](https://github.com/LucasLEPINAY)
 
 
 ## Sources
