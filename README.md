@@ -80,9 +80,9 @@ At the beginning of the project, we thought we would need a `Finite State Machin
 
 ## Credits
 ### Game Programming
-- [Alfred PLANSON](https://gitlabstudents.isartintra.com/a.planson)
-- [Arthur GUEDU](https://gitlabstudents.isartintra.com/a.guedu)
-- [Lucas LEPINAY](https://gitlabstudents.isartintra.com/l.lepinay)
+- [Alfred PLANSON](https://github.com/Ego1809)
+- [Arthur GUÉDU](https://github.com/Arthur-GUEDU)
+- [Lucas LEPINAY](github.com/LucasLEPINAY)
 
 
 ## Sources
