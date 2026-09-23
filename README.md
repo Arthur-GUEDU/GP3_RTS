@@ -83,7 +83,7 @@ At the beginning of the project, we thought we would need a `Finite State Machin
 - [Alfred PLANSON](https://github.com/Ego1809)
 - [Arthur GUÉDU](https://github.com/Arthur-GUEDU)
 - [Lucas LEPINAY](https://github.com/LucasLEPINAY)
-
+ 
 
 ## Sources
 - https://www.reddit.com/r/starcraft/comments/mtcroy/how_ai_works_in_big_rts_games/
